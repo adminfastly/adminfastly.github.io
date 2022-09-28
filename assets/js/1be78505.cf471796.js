@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9514],{4262:function(e,c,s){var n=s(4123),t=s(7294);c.Z=function(e){return t.createElement("div",{className:"sidebar-bg"},t.createElement(n.Z,e))}}}]);
